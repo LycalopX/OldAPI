@@ -32,19 +32,19 @@ export default {
         require('../assets/oldwoman.png'),
         require('../assets/oldman2.png'),
         require('../assets/oldman3.png'),
-        require('../assets/oldman1.png'),
+        require('../assets/oldwoman2.png'),
       ],
       texts: [
         'Olá! Meu nome é Ana Cláudia, tenho 67 anos e moro no abrigo Helena Dornfeld. \nCaso você tenha o interesse de me conhecer melhor, clique no balão!',
         'Olá! Meu nome é Fernando, tenho 74 anos e moro no abrigo Helena Dornfeld. \nCaso você tenha o interesse de me conhecer melhor, clique no balão!',
         'Olá! Meu nome é Arlindo, tenho 85 anos e moro no abrigo Helena Dornfeld. Caso você tenha o interesse de me conhecer melhor, clique no balão!',
-        'Meu nome é Arlindo, tenho 85 anos e moro no abrigo Helena Dornfeld. \nCaso você tenha o interesse de me conhecer melhor, clique no balão!'
+        'Olá! Meu nome é Marta, tenho 83 anos e moro no abrigo Helena Dornfeld. \nCaso você tenha o interesse de me conhecer melhor, clique na minha imagem!',
       ],
       detailedtexts: [
-        'Nome: Roberto \nIdade: 74 anos   Grau: II\nHistória: Ex-dono de um bar... \nHábitos: andar \nGostos: Panqueca',
-        'Nome: Afonso \nIdade: 82 anos   Grau: III\nHistória: Vivia na rua Delmar... \nHábitos: xadrez \nGostos: Frango grelhado',
-        'Nome: Roberto \nIdade: 61 anos   Grau: I\nHistória: Perdi a criatividade \nHábitos: Cozinhar \nGostos: Churrasco',
-        'Nome: Arlindo cruz de souza \nIdade: 85 anos \nGrau: III \nHistória: \nOlá, sou o senhor Arlindo. Nascido e criado em Canoas/RS! Quando jovem sempre fui apaixonado pelo Grêmio e sempre sonhei em ser um jogador profissional. Porém a vida me levou para outro rumo e fui trabalhar na marcenaria do meu pai logo após atingir meus 18 anos. Desde então, trabalhei lá até conhecer minha esposa, que me levou para morar em sua cidade natal, São Carlos/SP. Quando ela faleceu, vim morar no abrigo Helena Dornfeld, para poder receber o devido apoio que necessito. \nSou apaixonado em criar arte e em jogos de baralho, então adoraria que você viesse se juntar a mim em alguma dessas atividades!'
+        'Nome: Ana Cláudia Perez \nIdade: 67 anos \nGrau: I \nHistória: \nOlá, sou o senhora Ana. Sou carioca, nascida na Ilha do Governador/RJ. Tive como pai um professor de matemática muito bem sucedido que me orientou a seguir a mesma carreira, porém como gosto de ser diferente, me formei em química e fui dar aula em São Carlos/SP, cidade na qual me apaixonei! Quando percebi que não podia mais cuidar de mim mesma, o Abrigo Helena Dornfeld abriu as portas para mim e me acolheu. \nSempre gosto de jogos de carta e adorava cozinhar quando jovem. Quem sabe nos reunimos para fazer alguma dessas atividade!',
+        'Nome: Fernando de Oliveira Carvalho \nIdade: 74 anos \nGrau: II \nHistória: \nOlá, sou o senhor Fernando. Sou nascido em São Carlos/SP e formado em engenharia elétrica. Trabalhei em várias cidades do Brasil e tenho diversas histórias guardadas sobre as minhas mudanças. Me aposentei com 63 anos pois já não era mais capaz de trabalhar e fui morar no abrigo Helena Dornfeld. \nAdoro fazer palavras cruzadas e relembrar os velhos tempos! Se tiver um tempo sobrando, venha me conhecer!',
+        'Nome: Arlindo cruz de souza \nIdade: 85 anos \nGrau: III \nHistória: \nOlá, sou o senhor Arlindo. Nascido e criado em Canoas/RS! Quando jovem sempre fui apaixonado pelo Grêmio e sempre sonhei em ser um jogador profissional. Porém a vida me levou para outro rumo e fui trabalhar na marcenaria do meu pai logo após atingir meus 18 anos. Desde então, trabalhei lá até conhecer minha esposa, que me levou para morar em sua cidade natal, São Carlos/SP. Quando ela faleceu, vim morar no abrigo Helena Dornfeld, para poder receber o devido apoio que necessito. \nSou apaixonado em criar arte e em jogos de baralho, então adoraria que você viesse se juntar a mim em alguma dessas atividades!',
+        'Nome: Marta do Nascimento de Assis \nIdade: 83 anos \nGrau: III \nHistória:  \nOlá, sou o senhora Marta. Nasci na cidade de São Carlos/SP e moro aqui até hoje. Mesmo que eu adore os animais, cursei enfermagem na faculdade e atuei na área logo em seguida. Assim, construí a minha vida sozinha até conhecer o meu marido que compartilhou lindas historias comigo. Logo após a sua partida, fui recebida no Abrigo Helena Dornfeld para continuar a minha vida. \nAmo contar historias e pintar quadros. Assim adoraria de te conhecer para compartilhar essas atividades com você!'
       ],
       showDetailed: false
     };
