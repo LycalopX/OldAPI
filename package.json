@@ -4,8 +4,31 @@
   "description": "The old API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "eslint --ext .js,.json --ignore-path .gitignore .",
+    "front": "cd frontend && npm install && npm run lint && npm run build && cd .. && node .",
+    "heroku-postbuild": "cd frontend && npm install"
   },
   "author": "Alex Weber",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "monk": "^7.3.4",
+    "morgan": "^1.10.0",
+    "vue": "^3.2.31",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-vue": "^8.2.0"
+  }
 }
