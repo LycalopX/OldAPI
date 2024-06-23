@@ -49,7 +49,7 @@ onMounted(() => {
   <pre></pre>
   <div>
     <h3>
-      <a href="http://localhost:4000/donate" class="button" >Contribuir à causa</a>
+      <a href="/donate" class="button" >Contribuir à causa</a>
     </h3>
   </div>
   <br />

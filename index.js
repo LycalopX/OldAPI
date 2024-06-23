@@ -78,7 +78,7 @@ app.use((req, res, next) => {
 
 // A SAGA
 app.get('/', (req, res) => {
-	res.sendFile(vuePath + 'index.html')
+	res.sendFile(vuePath + 'home.html')
 
 	console.log("eu fui acessado!");
 });
